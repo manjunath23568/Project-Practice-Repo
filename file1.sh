@@ -1,3 +1,3 @@
 this is the devops assignment 
-demonstrating the git fetch concept 
-
+demonstrating the vs concept 
+increamental changes to git hub
