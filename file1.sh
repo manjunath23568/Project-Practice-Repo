@@ -1,5 +1,3 @@
-this is the file to demonstrate git rever and git reset 
+this is the devops assignment 
+demonstrating the git fetch concept 
 
-devops concepts 
-assignments 
-classes 
